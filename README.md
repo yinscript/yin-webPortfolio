@@ -1,5 +1,40 @@
-# Vue 3 + Vite
+# 👾 First Open Source Web Portfolio
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Welcome to my simple website portfolio!
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+# ↝ Project Overview
+
+This portfolio was basically created to explore and deepen my understanding of **Vue.js (with Vite)** and **Tailwind CSS**.
+
+# ↝ Tech Stack
+
+- **Frontend:** Vue.js (with Vite), and Tailwind CSS
+- **Design:** Figma
+- **Other Tools:** npm and Git
+
+# ↝ Features
+
+- Terminal Inspired Portfolio ㅤ🦦
+- Responsive Design (still buggy in some parts)
+- Interactive animations (powered by AOS and custom hover effects)
+- Dynamic project showcase
+- Smooth page transitions
+
+# Highlights
+
+Landing Page
+
+![Project Banner](banners/landingPage.png)
+
+My Terminal Portfolio
+
+![Project Banner](banners/myTerminal.png)
+
+# ↝ Rooms for Improvement
+- Implement a backend using **Laravel** or **Node.js** for dynamic data handling.
+- Implement lazy loading for offscreen content.
+- Follow best practices for **Vue 3 Composition API** structure.
+- Add a **light mode 𖤓** for better user experience.
+- Add exitable tabs in Terminal
+
+Feel free to explore, contribute, or get inspired!
