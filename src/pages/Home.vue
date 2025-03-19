@@ -113,7 +113,7 @@
                     <hr class="my-2 border-gray-300 w-1/3">
                     <p class="text-gray-400 text-xs md:text-base lg:text-sm mb-4">2024</p>
                     <a href="https://www.behance.net/gallery/175061235/Codeit-Responsive-Website-Design" target="_blank"
-                        class="w-50 relative border border-gray-300 group py-1.5 px-2.5 text-gray-300 cursor-pointer flex items-center justify-center">
+                        class="w-40 relative border border-gray-300 group py-1.5 px-2.5 text-gray-300 cursor-pointer flex items-center justify-center">
                         <span
                             class="absolute bottom-0 left-0 w-0 h-0.5 bg-amber-500 group-hover:w-full group-hover:transition-all"></span>
                         <span class="px-2">View project</span>
@@ -136,7 +136,7 @@
                     <hr class="my-2 border-gray-300 w-1/3">
                     <p class="text-gray-400 text-xs md:text-base lg:text-sm mb-4">2024</p>
                     <a href="https://www.behance.net/gallery/174934231/Snacz-Snack-Ordering-App-for-a-Movie-Theater" target="_blank"
-                        class="w-50 relative border border-gray-300 group py-1.5 px-2.5 text-gray-300 cursor-pointer flex items-center justify-center">
+                        class="w-40 relative border border-gray-300 group py-1.5 px-2.5 text-gray-300 cursor-pointer flex items-center justify-center">
                         <span
                             class="absolute bottom-0 left-0 w-0 h-0.5 bg-amber-500 group-hover:w-full group-hover:transition-all"></span>
                         <span class="px-2">View project</span>
@@ -159,7 +159,7 @@
                     <hr class="my-2 border-gray-300 w-1/3">
                     <p class="text-gray-400 text-xs md:text-base lg:text-sm mb-4">2024</p>
                     <a href="https://www.behance.net/gallery/174104055/Edu-Spark-PH-App-UX-Case-Study" target="_blank"
-                        class="w-50 relative border border-gray-300 group py-1.5 px-2.5 text-gray-300 cursor-pointer flex items-center justify-center">
+                        class="w-40 relative border border-gray-300 group py-1.5 px-2.5 text-gray-300 cursor-pointer flex items-center justify-center">
                         <span
                             class="absolute bottom-0 left-0 w-0 h-0.5 bg-amber-500 group-hover:w-full group-hover:transition-all"></span>
                         <span class="px-2">View project</span>
