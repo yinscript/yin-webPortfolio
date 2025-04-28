@@ -2,7 +2,7 @@
 @import 'animate.css';
 
 body, footer{
-  background-image: url("../src/assets/Textures.png");
+  background-color: #121212;
   background-size: 15% 15%;
   background-repeat: repeat;
 }
@@ -151,6 +151,7 @@ input {
   padding: 1.5rem 0;
   overflow: hidden;
 }
+
 .loop-slider {
   .inner {
     display: flex;
@@ -185,7 +186,7 @@ input {
 }
 .fade {
   pointer-events: none;
-  background: linear-gradient(90deg, #191919, transparent 30%, transparent 70%, #191919);
+  background: linear-gradient(90deg, #121212, transparent 30%, transparent 70%, #121212);
   position: absolute;
   inset: 0;
 }
@@ -199,24 +200,4 @@ input {
   }
 }
 
-.cursor {
-	position: absolute;
-	width: 10px;
-	height: 10px;
-	border-radius: 50%;
-	background-color: deepskyblue;
-	mix-blend-mode: difference;
-	pointer-events: none;
-	transform: translate(-50%, -50%);
-	transition: width 0.3s, height 0.3s, background-color 0.3s;
-	animation: glow 1s infinite alternate;
-}
-@keyframes glow {
-	0% {
-		box-shadow: 0 0 10px 5px rgba(0, 191, 255, 0.5);
-	}
-	100% {
-		box-shadow: 0 0 20px 10px rgba(0, 191, 255, 0.9);
-	}
-}
 

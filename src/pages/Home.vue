@@ -1,5 +1,4 @@
 <template>
-    <div class="cursor"></div>
     <!-- upper gradient -->
     <div data-aos="zoom-in" class="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80" aria-hidden="true">
         <div class="relative left-[calc(50%-11rem)] aspect-1155/678 w-[36.125rem] -translate-x-1/2 rotate-[30deg] bg-linear-to-tr from-[#2781FF] to-[#0ACF83] opacity-30 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]"
@@ -230,21 +229,3 @@
     </div>
 
 </template>
-
-<script setup>
-
-// Back to top button
-const scrollToProjects = () => {
-    const target = document.querySelector('#projects');
-    if (target) {
-        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
-    }
-};
-
-// Cursor
-document.addEventListener('mousemove', e => {
-    const cursor = document.querySelector('.cursor');
-    cursor.style.left = e.pageX + 'px';
-    cursor.style.top = e.pageY + 'px';
-});
-</script>
