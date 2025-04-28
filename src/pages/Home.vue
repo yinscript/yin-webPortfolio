@@ -70,7 +70,40 @@
             </div>
             <!-- End of Line Divider -->
 
-            <!-- Project 1: SOARchives -->
+            <!-- Project 1: TodoList -->
+            <div data-aos="fade-up"
+                class="grid grid-cols-2 gap-3 max-w-5xl mt-10 mx-auto coding inverse-toggle text-gray-300 text-sm font-mono subpixel-antialiased border-0 leading-normal overflow-hidden h-full">
+                <!-- Left Column: Text -->
+                <div class="flex flex-col justify-start">
+                    <h2 class="text-2xl md:text-3xl lg:text-4xl font-bold">TodoList</h2>
+                    <p class="text-gray-300 text-sm md:text-base lg:text-lg">Personal</p>
+                    <hr class="my-2 border-gray-300 w-1/3">
+                    <p class="text-gray-400 text-xs md:text-base lg:text-sm mb-4">2025</p>
+                    <div class="flex flex-items gap-3">
+                        <a href="https://github.com/yinscript/Minimal-TodoList" target="_blank"
+                            class="w-50 relative border border-gray-300 group py-1.5 px-2.5 text-gray-300 cursor-pointer flex items-center justify-center">
+                            <span
+                                class="absolute bottom-0 left-0 w-0 h-0.5 bg-amber-500 group-hover:w-full group-hover:transition-all"></span>
+                            <span class="px-2">View project</span>
+                        </a>
+                        <a href="https://minimal-todolist.vercel.app/" target="_blank"
+                            class="w-10 relative border border-gray-300 group py-1.5 px-3 text-gray-300 cursor-pointer">
+                            <span
+                                class="absolute bottom-0 left-0 w-0 h-0.5 bg-amber-500 group-hover:w-full group-hover:transition-all"></span>
+                            <i class="fas fa-globe"></i>
+                        </a>
+                    </div>
+                </div>
+                <!-- Right Column: Image -->
+                <div>
+                    <div class="w-full relative mx-auto h-auto overflow-hidden">
+                        <img src="../assets/todolist.png" alt="SOARchives"
+                            class="w-full h-auto relative z-0 transition-all duration-300 hover:scale-110">
+                    </div>
+                </div>
+            </div>
+
+            <!-- Project 2: SOARchives -->
             <div data-aos="fade-up"
                 class="grid grid-cols-2 gap-3 max-w-5xl mt-10 mx-auto coding inverse-toggle text-gray-300 text-sm font-mono subpixel-antialiased border-0 leading-normal overflow-hidden h-full">
                 <!-- Left Column: Text -->
@@ -103,7 +136,7 @@
                 </div>
             </div>
 
-            <!-- Project 2: Codeit -->
+            <!-- Project 3: Codeit -->
             <div data-aos="fade-up"
                 class="grid grid-cols-2 gap-3 max-w-5xl mt-10 mx-auto coding inverse-toggle text-gray-300 text-sm font-mono subpixel-antialiased border-0 leading-normal overflow-hidden h-full">
                 <!-- Left Column: Text -->
@@ -126,7 +159,7 @@
                 </div>
             </div>
 
-            <!-- Project 3: Snacz -->
+            <!-- Project 4: Snacz -->
             <div data-aos="fade-up"
                 class="grid grid-cols-2 gap-3 max-w-5xl mt-10 mx-auto coding inverse-toggle text-gray-300 text-sm font-mono subpixel-antialiased border-0 leading-normal overflow-hidden h-full">
                 <!-- Left Column: Text -->
@@ -149,7 +182,7 @@
                 </div>
             </div>
 
-            <!-- Project 4: Edu Spark PH -->
+            <!-- Project 5: Edu Spark PH -->
             <div data-aos="fade-up"
                 class="grid grid-cols-2 gap-3 max-w-5xl mt-10 mx-auto coding inverse-toggle text-gray-300 text-sm font-mono subpixel-antialiased border-0 leading-normal overflow-hidden h-full">
                 <!-- Left Column: Text -->
