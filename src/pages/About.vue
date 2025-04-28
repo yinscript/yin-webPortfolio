@@ -28,7 +28,7 @@
                         <div
                             class="text-center sm:text-left mb-14 before:block before:w-24 before:h-2 before:mb-5 before:rounded-md before:mx-auto sm:before:mx-0 before:dark:bg-gray-300">
                             <h3 class="text-3xl font-semibold">Techstack</h3>
-                            <span class="text-sm font-bold tracking-wider uppercase dark:text-gray-400">Technology /
+                            <span class="text-sm font-bold tracking-wider uppercase dark:text-gray-400">Technologies /
                                 Tools I Use</span>
                         </div>
                     </div>
@@ -38,9 +38,7 @@
                             <div
                                 class="flex flex-col sm:relative sm:before:absolute sm:before:top-2 sm:before:w-4 sm:before:h-4 sm:before:rounded-full sm:before:left-[-35px] sm:before:z-[1] before:dark:bg-gray-300">
                                 <h3 class="text-xl font-semibold tracking-wide">FRONTEND </h3>
-                                <p class="mb-3 text-gray-400">I'm interested in frontend development and have experience with HTML,
-                                    CSS, and JavaScript. I've built projects using Vue, Bootstrap, and Tailwind
-                                    CSS. Currently, I'm learning React.</p>
+                                <p class="mb-3 text-gray-400">Building user interfaces and user experiences is my passion.</p>
                                 <div class="flex items-start space-x-2 justify-start">
                                     <img class="w-8 h-8" src="../assets/svg/html.svg" alt="HTML">
                                     <img class="w-8 h-8" src="../assets/svg/css.svg" alt="CSS">
@@ -54,8 +52,7 @@
                             <div
                                 class="flex flex-col sm:relative sm:before:absolute sm:before:top-2 sm:before:w-4 sm:before:h-4 sm:before:rounded-full sm:before:left-[-35px] sm:before:z-[1] before:dark:bg-gray-300">
                                 <h3 class="text-xl font-semibold tracking-wide mb-3">BACKEND</h3>
-                                <p class="mb-3 text-gray-400">I have experience with Node.js, C#, and PHP, and have built projects
-                                    using Laravel and MySQL.</p>
+                                <p class="mb-3 text-gray-400">I explore and gain proficiency in various backend languages and frameworks.</p>
                                 <div class="flex items-start space-x-2 justify-start mb-3">
                                     <img class="w-8 h-8" src="../assets/svg/nodejs.svg" alt="Node.js">
                                     <img class="w-8 h-8" src="../assets/svg/csharp.svg" alt="Csharp">
@@ -67,9 +64,7 @@
                             <div
                                 class="flex flex-col sm:relative sm:before:absolute sm:before:top-2 sm:before:w-4 sm:before:h-4 sm:before:rounded-full sm:before:left-[-35px] sm:before:z-[1] before:dark:bg-gray-300">
                                 <h3 class="text-xl font-semibold tracking-wide mb-3">SOFTWARE TOOLS</h3>
-                                <p class="mb-3 text-gray-400">I have experience with software tools such as Git for version control,
-                                    Figma and Adobe XD for UI design, and Postman for API testing. I also have
-                                    experience with NPM for package management.</p>
+                                <p class="mb-3 text-gray-400">Experienced with software tools for version control, design, and API testing, as well as package management.</p>
                                 <div class="flex items-start space-x-2 justify-start mb-3">
                                     <img class="w-8 h-8" src="../assets/svg/git.svg" alt="Git">
                                     <img class="w-8 h-8" src="../assets/svg/figma.svg" alt="Figma">
