@@ -1,4 +1,5 @@
 <template>
+    
     <!-- upper gradient -->
     <div data-aos="zoom-in" class="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80" aria-hidden="true">
         <div class="relative left-[calc(50%-11rem)] aspect-1155/678 w-[36.125rem] -translate-x-1/2 rotate-[30deg] bg-linear-to-tr from-[#2781FF] to-[#0ACF83] opacity-30 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]"
@@ -6,9 +7,8 @@
     </div>
 
     <!-- Hero Section -->
-    <div data-aos="fade-up" class="relative mt-[-40px] mb-10 overflow-hidden before:absolute before:top-0 before:start-1/2 before:bg-[url('https://preline.co/assets/svg/examples/squared-bg-element.svg')] dark:before:bg-[url('https://preline.co/assets/svg/examples-dark/squared-bg-element.svg')] before:bg-no-repeat before:bg-top before:size-full before:-z-1 before:transform before:-translate-x-1/2">
+    <div data-aos="fade-up" class="relative mt-[-40px] mb-10 overflow-hidden before:absolute before:top-0 before:start-1/2 before:bg-no-repeat before:bg-top before:size-full before:-z-1 before:transform before:-translate-x-1/2">
         <div class="max-w-[85rem] mx-auto px-4 sm:px-6 lg:px-8 py-5 pb-10">
-            <!-- End Announcement Banner -->
 
             <img src="../assets/memoji.png" alt="" class="mx-auto w-20 h-20 sm:w-30 sm:h-30 mb-[-30px]">
 
